@@ -11,9 +11,9 @@ title                    : "Nguyen Anh Tu's HomePage"
 title_separator          : "-"
 name                     : &name "Anh-Tu-Nguyen"
 description              : &description "personal description"
-url                      : https://anhtunguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anhtunguyen98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anhtunguyen98/anhtunguyen.github.io"
+repository               : "anhtunguyen98/anhtunguyen98.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
