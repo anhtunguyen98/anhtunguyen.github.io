@@ -23,4 +23,8 @@ author_profile: true
 
 **Publications**:
 
-1. Manh Hung Nguyen, Vu Hoang, **Tu Anh Nguyen**, and Trung H. Bui. Automatic RadiologyReport Editing Through Voice. InProc. Interspeech 2021, pages 4862–4863, 2021 [paper](https://www.isca-speech.org/archive/interspeech_2021/nguyen21f_interspeech.html)
+1. Manh Hung Nguyen, Vu Hoang, **Tu Anh Nguyen**, and Trung H. Bui. Automatic Radiology Report Editing Through Voice. InProc. Interspeech 2021, pages 4862–4863, 2021 [paper](https://www.isca-speech.org/archive/interspeech_2021/nguyen21f_interspeech.html)
+
+2. Ta Duc Huy, **Nguyen Anh Tu**, Tran Hoang Vu, Nguyen Phuc Minh, Nguyen Phan, Trung H. Bui, and Steven Q. H. Truong. ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development. To apper in Proceedings of the 28th International Conference on Neural Information Processing (ICONIP), 2021.  
+
+3. **Nguyen Anh Tu**, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach. Analyzing Vietnamese Legal Questions using Deep Neural Networks with Biaffine Classifiers. To apper in Proceedings of the 28th International Conference on Neural Information Processing (ICONIP), 2021.    
