@@ -14,7 +14,7 @@ I graduated in information technology at the [Post and Telecommunications Instit
 
 I am working with  PhD, Associate Professor [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a NLP Researcher at PTIT.
 
-Currently, I am also an Applied Scientist at [Vinbrain JSC](https://vinbrain.net/)
+Currently, I am also an AI Researcher at [Samsung SDS R&D Center](https://samsungsds.com/)
 
 **Contact**: anhtunguyen446{AT}gmail.com
 
