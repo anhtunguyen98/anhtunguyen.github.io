@@ -20,6 +20,9 @@ Currently, I am also an AI Researcher at [Samsung SDS R&D Center](https://samsun
 
 **Research Interests**: Natural Language Processing, Deep Learning
 
+Past
+=====
+- 2/2021 - 3/2022: Applied Scientis at VinBrain
 
 
 
