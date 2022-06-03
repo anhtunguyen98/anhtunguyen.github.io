@@ -27,4 +27,5 @@ author_profile: true
 
 2. Ta Duc Huy, **Nguyen Anh Tu**, Tran Hoang Vu, Nguyen Phuc Minh, Nguyen Phan, Trung H. Bui, and Steven Q. H. Truong. ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development. In Proceedings of the 28th International Conference on Neural Information Processing (ICONIP), 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-92310-5_76) 
 
-3. **Nguyen Anh Tu**, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach. Analyzing Vietnamese Legal Questions using Deep Neural Networks with Biaffine Classifiers. In Proceedings of the 28th International Conference on Neural Information Processing (ICONIP), 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_44)   
+3. **Nguyen Anh Tu**, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach. Analyzing Vietnamese Legal Questions using Deep Neural Networks with Biaffine Classifiers. In Proceedings of the 28th International Conference on Neural Information Processing (ICONIP), 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_44)  
+4. Oanh Thi Tran, Thang Van Nguyen, **Tu Anh Nguyen**, Ngo Xuan Bach. Learning Student Intents and Named Entities in the Education Domain. International Journal on Artificial Intelligence Tools. Accepted. (SCIE, Q3, IF 1.208) 
