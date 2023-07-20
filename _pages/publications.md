@@ -31,3 +31,6 @@ author_profile: true
 4. Oanh Thi Tran, Thang Van Nguyen, **Tu Anh Nguyen**, Ngo Xuan Bach. Learning Student Intents and Named Entities in the Education Domain. International Journal on Artificial Intelligence Tools.[paper](https://doi.org/10.1142/S0218213023500021). (SCIE, Q3, IF 1.208) 
 5. Hoang Thi Thu Uyen, **Nguyen Anh Tu**, Ta Duc Huy. Vietnamese Capitalization and Punctuation Recovery Models. Interspeech 2022 [paper](https://arxiv.org/abs/2207.01312)
 6. **Nguyen Anh Tu**, Duong Xuan Hieu, Tu Minh Phuong, Ngo Xuan Bach. A Bidirectional Joint Model for Spoken Language Understanding. Proceedings of the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Greece, June 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10096195)
+7. Manh Hung Nguyen, Vu Hoang, **Anh Tu Nguyen**, Steven Quoc Hung Truong, and Huu Trung Bui. Radiology report editing method and system, March 30 2023. US Patent App. 17/901,228.
+8. **Nguyen Anh Tu**, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach. Joint Multiple Intent Detection and Slot Filling with Supervised Contrastive Learning and Self-Distillation. To appear in Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), Krakow, Poland, October 2023.
+    
