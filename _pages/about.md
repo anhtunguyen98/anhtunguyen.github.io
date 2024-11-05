@@ -15,6 +15,7 @@ I graduated in information technology at the [Post and Telecommunications Instit
 I am working with  PhD, Associate Professor [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as an NLP Researcher at PTIT.
 
 Currently, I am an MSc student at [Saarland University](https://www.uni-saarland.de/), Germany
+
 I am also an AI Engineer at [Castalk](https://www.castalk.com/)
 
 
